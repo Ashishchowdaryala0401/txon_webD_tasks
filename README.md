@@ -1,4 +1,4 @@
 # txon_webD_tasks
-web development web design tasks
+Landing Page Using html and css 
 
-01-Creating a landing web page
+A simple landing page created for travel agency using html and css
